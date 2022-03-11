@@ -1,0 +1,153 @@
+---
+title: "Basit bir Needleman-Wunsch global hizalama algoritması"
+author: "Emrah Kırdök, Ph. D."
+date: "3/11/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Giriş
+
+Bu belge kapsamınd, Needleman-Wunsch global hizalama algoritmasının R üzerinde çok basit bir uygulaması gösterilmeye çalışılacaktır.
+
+> Bu belge şu anda oldukça taslak halinde. İlerleyen günlerde düzenlenecektir. 
+
+İlk olarak eşleşme (match), yanlış eşleşme (mismatch) ve boşluk (gap) parametrelerini belirleyelim:
+
+```{r}
+match <- 1
+mismatch <- -1
+gap <- -2
+```
+
+Şimdi kullanacağımız dizileri yazalım:
+
+```{r}
+d1 <- c("a", "a", "t", "c", "g","t")
+d2 <- c("a", "a", "c", "g")
+```
+
+Skorlama ve geri gidiş matrislerimizi oluşturalım:
+
+```{r}
+score <- matrix(data = NA, ncol = length(d2)+1, nrow=length(d1)+1)
+backtrace <- matrix(data = NA, ncol = length(d2)+1, nrow=length(d1)+1)
+```
+
+Matrisi ilk olarak dolduraım:
+
+```{r}
+# skorlama matrisinin ilk satir ve sutunlari gap oldugu icin doldurmak cok kolay
+score[1,1]<-0
+for(i in 2:ncol(score)){score[1,i]<-score[1,i-1]+gap}
+for(i in 2:nrow(score)){score[i,1]<-score[i-1,1]+gap}
+```
+
+Bu noktada şöyle bir matris elde ettik:
+
+```{r}
+score
+```
+
+Eşleşme ve yanlış eşeşleşme durumunda skoru geri döndürecek fonksiyonu yazalım:
+
+```{r}
+s <- function(a,b,match,mismatch){
+  if(a==b){
+    return(match)
+    }else{
+      return(mismatch)
+    }
+}
+```
+
+Bu noktada geri gidiş matrisimizin en kolay kısımlarını dolduralım. Bu matrisi okurken şuna dikkat etmeliyiz. Aslında matrisi en sonran okuyacağız. Dolayısıyla, buradaki komutları tersten algılamalısınız.
+
+```{r}
+backtrace[1,1] <- "finish"
+backtrace[2:nrow(backtrace),1]<-"up"
+backtrace[1,2:ncol(backtrace)]<-"left"
+```
+
+Bu matris bize geri takip yaparken yol gösterecek:
+
+```{r}
+backtrace
+```
+
+Şimdi adım adım matrislerimizi dolduralım:
+
+```{r}
+for(i in 2:nrow(score)){
+  for(j in 2:ncol(score)){
+    s1 <- score[i-1,j] + gap
+    s2 <- score[i,j-1] + gap
+    s3 <- score[i-1,j-1] + s(a = d1[i-1],b = d2[j-1], match = match, mismatch = mismatch)
+    score[i,j]<-max(s1,s2,s3)
+    direction <- which.max(c(s1,s2,s3))[1]
+    if(direction == 1){
+      backtrace[i,j]<-"up"
+    }else if(direction == 2){
+      backtrace[i,j]<-"left"
+    }else{
+      backtrace[i,j]<-"diag"
+    }
+  }
+}
+```
+
+Skorlama matrisine bir bakalım:
+
+```{r}
+score
+```
+
+Acaba bu iki dizinin hizalama skoru nedir?
+
+```{r}
+score[nrow(score), ncol(score)]
+```
+
+Peki geri takip matrisi nasıl oldu?
+
+```{r}
+backtrace
+```
+
+Unutmayın, bu matrisi okumak için sağ alt köşedeki kutucuktan başlıyor ve o kutucukta hangi komut varsa o yönde ilerliyoruz. Eğer yukarı komutu varsa, üstteki diziye bir boşluk, sol komutu varsa soldaki diziye bir boşluk ekliyoruz. Çapraz (diag) komutu varsa köşegenler boyunca gidiyoruz.
+
+Şimdi geritakip matrisini kullanarak dizilerimizi hizalayalım:
+
+```{r}
+alignment_col <- ""
+alignment_row <- ""
+i <- nrow(backtrace)
+j <- ncol(backtrace)
+while(i>1 & j>1){
+  if(backtrace[i,j] == "up"){
+    alignment_col <- paste0("-",alignment_col)
+    alignment_row <- paste0(d1[i-1],alignment_row)
+    i <- i-1
+  } else if (backtrace[i,j]=="diag"){
+    alignment_col <- paste0(d2[j-1],alignment_col)
+    alignment_row <- paste0(d1[i-1],alignment_row)
+    i <- i-1
+    j <- j-1
+  } else{
+    alignment_col <- paste0(d2[j-1],alignment_col)
+    alignment_row <- paste0("-",alignment_row)
+    j <- j-1
+  }
+  
+}
+```
+
+Son olarak bakalım:
+
+```{r}
+rbind(alignment_col,alignment_row)
+```
+
