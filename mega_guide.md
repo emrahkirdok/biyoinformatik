@@ -1,6 +1,6 @@
 # MEGA Rehberi
 ## İndirme
-MEGA'yı indirmek için (https://www.megasoftware.net) bağlantısına gidin ve sistem özelliklerinizi seçtikten sonra DOWNlOAD butonuna tıklayın.
+MEGA'yı indirmek için (https://www.megasoftware.net) bağlantısına gidin ve sistem özelliklerinizi seçtikten sonra DOWNLOAD butonuna tıklayın.
 ![download step](images/mega_download1.png)
 
 Gelen ekranı aşağıya indirin ve Accept butonuna tıklayarak devam edin.
