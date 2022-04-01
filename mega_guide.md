@@ -12,4 +12,20 @@ Açılan ekrandaki gerekli bilgileri kendinize uygun bir şekilde doldurun ve DO
 Açılan ekrandan indirmek istediğiniz konumu seçin ve kaydete basın.
 ![download step](images/mega_download4.png)
 
-Bu aşamada Mega_setup.exe dosyası indirilmeye başlamış olması lazım.
+Bu aşamada Mega_setup.exe dosyası indirilmeye başlanmış olması lazım.
+
+# Kurulum
+
+![setup step](images/mega_setup1.png)
+
+![setup step](images/mega_setup2.png)
+
+![setup step](images/mega_setup3.png)
+
+![setup step](images/mega_setup4.png)
+
+![setup step](images/mega_setup5.png)
+
+![setup step](images/mega_setup6.png)
+
+![setup step](images/mega_setup7.png)
