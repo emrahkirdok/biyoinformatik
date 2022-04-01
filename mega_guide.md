@@ -17,31 +17,34 @@ Bu aşamada "Mega_setup.exe" dosyası indirilmeye başlanmış olması lazım.
 ## Kurulum
 
 İndirdiğiniz "Mega_setup.exe" dosyasını çift tıklayın ve "Çalıştır" seçeneğine tıklayın.
+
 ![setup step](images/mega_setup1.png)
 
 
 İlk seçeneği seçerek "Next" butonuna tıklayın. 
+
 ![setup step](images/mega_setup2.png)
 
 
 "Browse" butonuna tıklayarak kurulumu yapmak istediğiniz konumu seçin ve "Next" seçeneğine tıklayarak devam edin.
+
 ![setup step](images/mega_setup3.png)
 
 
 "Next" seçeneğine tıklayarak devam edin.
+
 ![setup step](images/mega_setup4.png)
 
-
 Seçeneklere tik atarak "Next" seçeneği ile devam edin.
+
 ![setup step](images/mega_setup5.png)
 
-
 Seçeneklere tik atarak "Next" seçeneği ile devam edin.
+
 ![setup step](images/mega_setup6.png)
 
-
 "Install" butonuna tıklayarak kurulumu başlatın.
-![setup step](images/mega_setup7.png)
 
+![setup step](images/mega_setup7.png)
 
 Kurulum bittikten sonra "finish" butonuna tıklayın ve kurulumu bitirin.
