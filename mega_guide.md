@@ -12,7 +12,7 @@ Açılan ekrandaki gerekli bilgileri kendinize uygun bir şekilde doldurun ve "D
 Açılan ekrandan indirmek istediğiniz konumu seçin ve "kaydet" seçeneğine tıklayın.
 ![download step](images/mega_download4.png)
 
-Bu aşamada "Mega_setup.exe" dosyası indirilmeye başlanmış olması lazım.
+Bu aşamada "Mega_setup.exe" dosyası indiriliyor olması lazım.
 
 ## Kurulum
 
@@ -47,4 +47,12 @@ Seçeneklere tik atarak "Next" seçeneği ile devam edin.
 
 ![setup step](images/mega_setup7.png)
 
-Kurulum bittikten sonra "finish" butonuna tıklayın ve kurulumu bitirin.
+Kurulum bittikten sonra "Finish" butonuna tıklayın ve kurulumu bitirin. Kurulum bittikten sonra program artık kullanılmaya hazır.
+
+## Analiz Materyalinin İndirilmesi
+
+![fasta step](images/mega_fasta1.png)
+
+![fasta step](images/mega_fasta2.png)
+
+![fasta step](images/mega_fasta3.png)
