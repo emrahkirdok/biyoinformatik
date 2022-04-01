@@ -1,15 +1,19 @@
 # MEGA Rehberi
 ## İndirme
 MEGA'yı indirmek için (https://www.megasoftware.net) bağlantısına gidin ve sistem özelliklerinizi seçtikten sonra "DOWNLOAD" butonuna tıklayın.
+
 ![download step](images/mega_download1.png)
 
 Gelen ekranı aşağıya indirin ve "Accept" butonuna tıklayarak devam edin.
+
 ![download step](images/mega_download2.png)
 
 Açılan ekrandaki gerekli bilgileri kendinize uygun bir şekilde doldurun ve "DOWNLOAD" butonuna tıklayın.
+
 ![download step](images/mega_download3.png)
 
 Açılan ekrandan indirmek istediğiniz konumu seçin ve "kaydet" seçeneğine tıklayın.
+
 ![download step](images/mega_download4.png)
 
 Bu aşamada "Mega_setup.exe" dosyası indiriliyor olması lazım.
@@ -51,8 +55,15 @@ Kurulum bittikten sonra "Finish" butonuna tıklayın ve kurulumu bitirin. Kurulu
 
 ## Analiz Materyalinin İndirilmesi
 
+İlk olarak (https://www.ncbi.nlm.nih.gov) adresine gidin ve veri tabanı seçeneğini "Nucleotide" olarak ayarlayın. Ardından çalışmak istediğiniz diziyi "Search" kısmına yazın ve aratın. Daha sonra çıkan arama sonuçlarından birini seçin.
+
 ![fasta step](images/mega_fasta1.png)
+
+Seçtiğiniz arama sonucunun başlığının sol üstünde yer alan "Send to:" seçeneğine tıklayın
+Açılan pencereden: 
+"Choose Destination" seçeneğini "File" olarak,
+"Format" seçeneğini "FASTA" olarak ayarlayın ve "Create File" butonuna basın.
 
 ![fasta step](images/mega_fasta2.png)
 
-![fasta step](images/mega_fasta3.png)
+FASTA dosyası bilgisayarınızın indirilenler kısmına inmiş olmalı. Fasta dosyasını burdan kendi proje klasorünüze aktarabilirsiniz
