@@ -62,7 +62,7 @@ Kurulum bittikten sonra "Finish" butonuna tıklayın ve kurulumu bitirin. Kurulu
 Seçtiğiniz arama sonucunun başlığının sol üstünde yer alan "Send to:" seçeneğine tıklayın
 Açılan pencereden: 
 "Choose Destination" seçeneğini "File" olarak,
-"Format" seçeneğini "FASTA" olarak ayarlayın ve "Create File" butonuna basın.
+"Format" seçeneğini "FASTA" olarak ayarlayın ve "Create File" butonuna tıklayın.
 
 ![fasta step](images/mega_fasta2.png)
 
@@ -80,7 +80,7 @@ Bu ekranda dosya seç butonuna tıklayın.
 Açılan pencereden "Tüm dosyaları göster" seçeneğine tıklayın.
 ![blast step](images/mega_blast3.png)
 
-Açılan ekrandan indirdiğiniz FASTA dosyasının bulunduğu klasöre gidin; FASTA dosyasını seçin ve "Aç" butonuna basın.
+Açılan ekrandan indirdiğiniz FASTA dosyasının bulunduğu klasöre gidin; FASTA dosyasını seçin ve "Aç" butonuna tıklayın.
 Böylece FASTA dosyanızı siteye analiz için yüklemiş oldunuz.
 ![blast step](images/mega_blast4.png)
 
@@ -89,3 +89,7 @@ Burdaki seçeneklerden çalışmanıza uygun arama kümesini seçin.
 
 Burdaki seçeneklerden de çalışmanıza uygun parametreleri seçin ve "BLAST" butonuna tıklayın.
 ![blast step](images/mega_blast6.png)
+
+Bu ekranda BLAST aramasının bitmesini bekleyin.
+![blast step](images/mega_blast7.png)
+
