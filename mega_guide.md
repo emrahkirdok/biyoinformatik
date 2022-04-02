@@ -109,8 +109,41 @@ Açılan pencereden "Not Defteri" uygulamasını seçin ve "Tamam" butonuna tık
 Böylece dosya formatı txt'den, fasta'ya dönmüş oldu.
 
 
+
 MEGA'yı kullanmadan önce yapmanız gereken bir diğer şey de ilk indirdiğimiz FASTA dosyasındaki nükleotit dizisini kopyalamalısınız.
 ![preset step](images/mega_preset4.png)
 Kopyaladığınız nükletit dizisini blast sonuçlarının olduğu, son oluşturduğunuz FASTA dosyasının en altına satır başı yaparak ekleyin.
 Böylece çalışmak istediğiniz nükleotit dizisini, elde ettiğiniz blast sonuçlarıyla birlikte analiz edebileceksiniz.
 ![preset step](images/mega_preset3.png)
+
+## MEGA Kullanım Rehperi
+
+![guide step](images/mega_guide1.png)
+
+![guide step](images/mega_guide2.png)
+
+![guide step](images/mega_guide3.png)
+
+![guide step](images/mega_guide4.png)
+
+![guide step](images/mega_guide5.png)
+
+![guide step](images/mega_guide6.png)
+
+![guide step](images/mega_guide7.png)
+
+![guide step](images/mega_guide8.png)
+
+![guide step](images/mega_guide9.png)
+
+![guide step](images/mega_guide10.png)
+
+![guide step](images/mega_guide11.png)
+
+![guide step](images/mega_guide12.png)
+
+![guide step](images/mega_guide13.png)
+
+![guide step](images/mega_guide14.png)
+
+![guide step](images/mega_guide15.png)
