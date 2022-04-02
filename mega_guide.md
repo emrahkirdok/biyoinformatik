@@ -93,8 +93,18 @@ Burdaki seçeneklerden de çalışmanıza uygun parametreleri seçin ve "BLAST" 
 Bu ekranda BLAST aramasının bitmesini bekleyin.
 ![blast step](images/mega_blast7.png)
 
-Arama bittikten sonra açılan ekranı aşağıya indirin ve "Sequences producing significant alignments" kısmındaki "select all" seçneğinin tikini kaldırın ve çalışmak istediğiniz dizilerin yanındaki kutucuklara tik atın.
+Arama bittikten sonra açılan ekranı aşağıya indirin ve "Sequences producing significant alignments" kısmındaki "select all" seçeneğinin tikini kaldırın ve çalışmak istediğiniz dizilerin yanındaki kutucuklara tik atın.
 ![blast step](images/mega_blast8.png)
 
-Daha sonra "Download" kısmından "FASTA(complete sequence)" seçeneğinine tıklayarak dosyayı indirin
+Daha sonra "Download" kısmından "FASTA(complete sequence)" seçeneğine tıklayarak dosyayı indirin.
 ![blast step](images/mega_blast9.png)
+
+## MEGA'yı kullanmadan önce
+
+![blast step](images/mega_preset1.png)
+
+![blast step](images/mega_preset2.png)
+
+![blast step](images/mega_preset4.png)
+
+![blast step](images/mega_preset3.png)
