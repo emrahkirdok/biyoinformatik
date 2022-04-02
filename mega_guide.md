@@ -70,14 +70,22 @@ FASTA dosyası bilgisayarınızın indirilenler kısmına inmiş olmalı. Fasta 
 
 ## Blast Analizi
 
+İlk olarak (https://blast.ncbi.nlm.nih.gov/Blast.cgi) adresine gidin ve "Nucleotide BLAST" seçneğini seçin.
+
 ![blast step](images/mega_blast1.png)
 
+Bu ekranda dosya seç butonuna tıklayın.
 ![blast step](images/mega_blast2.png)
 
+Açılan pencereden "Tüm dosyaları göster" seçeneğine tıklayın.
 ![blast step](images/mega_blast3.png)
 
+Açılan ekrandan indirdiğiniz FASTA dosyasının bulunduğu klasöre gidin; FASTA dosyasını seçin ve "Aç" butonuna basın.
+Böylece FASTA dosyanızı siteye analiz için yüklemiş oldunuz.
 ![blast step](images/mega_blast4.png)
 
+Burdaki seçeneklerden çalışmanıza uygun arama kümesini seçin.
 ![blast step](images/mega_blast5.png)
 
+Burdaki seçeneklerden de çalışmanıza uygun parametreleri seçin ve "BLAST" butonuna tıklayın.
 ![blast step](images/mega_blast6.png)
