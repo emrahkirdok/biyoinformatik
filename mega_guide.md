@@ -101,10 +101,16 @@ Daha sonra "Download" kısmından "FASTA(complete sequence)" seçeneğine tıkla
 
 ## MEGA'yı kullanmadan önce
 
-![blast step](images/mega_preset1.png)
+Blast sonuçları bilgisayarınıza txt formatında inmiş olabilir. Bu durumda öncelikle bu dosyayı FASTA formatına çevirmeliyiz. Bunun için dosyaya sağ tıklayın ve "Birlikte aç" seçeneğinden "Başka bir uygulama seç" kısmına tıklayın.
+![preset step](images/mega_preset1.png)
 
-![blast step](images/mega_preset2.png)
+Açılan pencereden "Not Defteri" uygulamasını seçin ve "Tamam" butonuna tıklayın.
+![preset step](images/mega_preset2.png)
+Böylece dosya formatı txt'den, fasta'ya dönmüş oldu.
 
-![blast step](images/mega_preset4.png)
 
-![blast step](images/mega_preset3.png)
+MEGA'yı kullanmadan önce yapmanız gereken bir diğer şey de ilk indirdiğimiz FASTA dosyasındaki nükleotit dizisini kopyalamalısınız.
+![preset step](images/mega_preset4.png)
+Kopyaladığınız nükletit dizisini blast sonuçlarının olduğu, son oluşturduğunuz FASTA dosyasının en altına satır başı yaparak ekleyin.
+Böylece çalışmak istediğiniz nükleotit dizisini, elde ettiğiniz blast sonuçlarıyla birlikte analiz edebileceksiniz.
+![preset step](images/mega_preset3.png)
