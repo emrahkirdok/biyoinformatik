@@ -59,14 +59,14 @@ Kurulum bittikten sonra "Finish" butonuna tıklayın ve kurulumu bitirin. Kurulu
 
 ![fasta step](images/mega_fasta1.png)
 
-Seçtiğiniz arama sonucunun başlığının sol üstünde yer alan "Send to:" seçeneğine tıklayın
+Seçtiğiniz arama sonucunun başlığının sağ üstünde yer alan "Send to:" seçeneğine tıklayın.
 Açılan pencereden: 
 "Choose Destination" seçeneğini "File" olarak,
 "Format" seçeneğini "FASTA" olarak ayarlayın ve "Create File" butonuna tıklayın.
 
 ![fasta step](images/mega_fasta2.png)
 
-FASTA dosyası bilgisayarınızın indirilenler kısmına inmiş olmalı. Fasta dosyasını burdan kendi proje klasorünüze aktarabilirsiniz.
+FASTA dosyası bilgisayarınızın indirilenler kısmına inmiş olmalı. Fasta dosyasını burdan kendi proje klasörünüze aktarabilirsiniz.
 
 ## Blast Analizi
 
@@ -84,10 +84,10 @@ Açılan ekrandan indirdiğiniz FASTA dosyasının bulunduğu klasöre gidin; FA
 Böylece FASTA dosyanızı siteye analiz için yüklemiş oldunuz.
 ![blast step](images/mega_blast4.png)
 
-Burdaki seçeneklerden çalışmanıza uygun arama kümesini seçin.
+Buradaki seçeneklerden çalışmanıza uygun arama kümesini seçin.
 ![blast step](images/mega_blast5.png)
 
-Burdaki seçeneklerden de çalışmanıza uygun parametreleri seçin ve "BLAST" butonuna tıklayın.
+Buradaki seçeneklerden de çalışmanıza uygun parametreleri seçin ve "BLAST" butonuna tıklayın.
 ![blast step](images/mega_blast6.png)
 
 Bu ekranda BLAST aramasının bitmesini bekleyin.
@@ -101,7 +101,7 @@ Daha sonra "Download" kısmından "FASTA(complete sequence)" seçeneğine tıkla
 
 ## MEGA'yı kullanmadan önce
 
-Blast sonuçları bilgisayarınıza txt formatında inmiş olabilir. Bu durumda öncelikle bu dosyayı FASTA formatına çevirmeliyiz. Bunun için dosyaya sağ tıklayın ve "Birlikte aç" seçeneğinden "Başka bir uygulama seç" kısmına tıklayın.
+Blast sonuçları bilgisayarınıza txt formatında inmiş olabilir. Bu durumda öncelikle bu dosyayı FASTA formatına çevirmelisiniz. Bunun için dosyaya sağ tıklayın ve "Birlikte aç" seçeneğinden "Başka bir uygulama seç" kısmına tıklayın.
 ![preset step](images/mega_preset1.png)
 
 Açılan pencereden "Not Defteri" uygulamasını seçin ve "Tamam" butonuna tıklayın.
@@ -110,7 +110,7 @@ Böylece dosya formatı txt'den, fasta'ya dönmüş oldu.
 
 
 
-MEGA'yı kullanmadan önce yapmanız gereken bir diğer şey de ilk indirdiğimiz FASTA dosyasındaki nükleotit dizisini kopyalamalısınız.
+MEGA'yı kullanmadan önce  ilk indirdiğiniz FASTA dosyasındaki nükleotit dizisini kopyalamalısınız.
 ![preset step](images/mega_preset4.png)
 Kopyaladığınız nükleotit dizisini blast sonuçlarının olduğu, son oluşturduğunuz FASTA dosyasının en altına satır başı yaparak ekleyin.
 Böylece çalışmak istediğiniz nükleotit dizisini, elde ettiğiniz blast sonuçlarıyla birlikte analiz edebileceksiniz.
@@ -118,7 +118,7 @@ Böylece çalışmak istediğiniz nükleotit dizisini, elde ettiğiniz blast son
 
 ## MEGA Kullanım Rehberi
 
-Bilgisayarınıza kurduğunuz MEGA programını çalıştırın ve açılan program ekranının sol üstünde yer alan "File" kısmına tıklayın ve "Open A File/Session..." seçeneğini seçin.
+Bilgisayarınıza kurduğunuz MEGA programını çalıştırın; açılan program ekranının sol üstünde yer alan "File" kısmına tıklayın ve "Open A File/Session..." seçeneğini seçin.
 
 ![guide step](images/mega_guide1.png)
 
@@ -129,8 +129,8 @@ Açılan pencereden,iki fasta dosyasını birleştirerek son aşamada oluşturdu
 Karşınıza gelen kutucuktan "Align" seçeneğini seçerek devam edin.
 ![guide step](images/mega_guide3.png)
 
-Hizalanan nükleotit dizilerinin uzunluk farklarını mousenuzla seçin ve klavyenizdeki "DELETE" tuşuna basın.
-Böylece nükleotit uzunluklarını eşitlemiş olduk.
+Hizalanan nükleotit dizilerinin uzunluk farklarını mousenuzla seçin ve klavyenizdeki "DELETE" tuşuna basarak silin.
+Böylece hizalanan nükleotitlerin uzunluklarını eşitlemiş olduk.
 
 ![guide step](images/mega_guide4.png)
 
