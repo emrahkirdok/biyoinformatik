@@ -170,7 +170,7 @@ Karşınıza gelen pencereden çalışmanıza uygun parametreleri veya görselde
 
 ![guide step](images/mega_guide13.png)
 
-+ Tebrikler! Kendi filogenetik ağacınızı oluşturdunuz.
+### Tebrikler! Kendi filogenetik ağacınızı oluşturdunuz.
 
 ![guide step](images/mega_guide14.png)
 
