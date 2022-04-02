@@ -70,14 +70,14 @@ FASTA dosyası bilgisayarınızın indirilenler kısmına inmiş olmalı. Fasta 
 
 ## Blast Analizi
 
-[blast step](images/mega_blast1.png)
+![blast step](images/mega_blast1.png)
 
-[blast step](images/mega_blast2.png)
+![blast step](images/mega_blast2.png)
 
-[blast step](images/mega_blast3.png)
+![blast step](images/mega_blast3.png)
 
-[blast step](images/mega_blast4.png)
+![blast step](images/mega_blast4.png)
 
-[blast step](images/mega_blast5.png)
+![blast step](images/mega_blast5.png)
 
-[blast step](images/mega_blast6.png)
+![blast step](images/mega_blast6.png)
