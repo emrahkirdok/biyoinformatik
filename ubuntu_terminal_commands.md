@@ -1,1 +1,1 @@
-
+# Ubuntu Terminal Komutları
