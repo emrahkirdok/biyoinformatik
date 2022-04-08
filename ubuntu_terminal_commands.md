@@ -1,46 +1,88 @@
 # Ubuntu Terminal Komutları
 
-## whoami 
+```
+whoami 
+```
+
 Ben kimim? Sistemdeki kullanıcı isminizi verir.
 
-## pwd 
+```
+pwd 
+```
+
 Bulunduğunuz dizinin (klasörün) ismini verir.
 
-## explorer.exe .
+```
+explorer.exe .
+```
+
 İçinde bulunduğunuz klasörü açmanızı sağlar.
 
-## echo $PATH
+```
+echo $PATH
+```
+
 Ortam değişkeninde bulunan dizinleri görmemizi sağlıyor.
 
-## ls / dir
+```
+ls / dir
+```
+
 Bulunduğunuz dizinin içeriğini görmenizi sağlar.
 
-## ls -l 
+```
+ls -l 
+```
+
 Dizin içeriğini liste şeklinde gösterir.
 
 + Dizin ismi "ornek_dizin" olsun.
 
-## mkdir ornek_dizin
+```
+mkdir ornek_dizin
+```
+
 Yeni bir dizin oluşturmanızı sağlar.
 
-## rmdir / rm -r ornek_dizin
+```
+rmdir / rm -r ornek_dizin
+```
+
 İstenilen dizini silmek için kullanılan bir komuttur fakat sadece boş dizinleri silmenize izin verir.
 
-## rm ornek_dizin
+```
+rm ornek_dizin
+```
+
 İstenilen dizini içindekilerle birlikte silmek için kullanılır.
 
-## cd ornek_dizin
+```
+cd ornek_dizin
+```
+
 İstenilen dosyaya gitmenizi sağlar.
 
-## cd ..
+```
+cd ..
+```
+
 Bulunduğunuz dizinden bir üst dizine gitmenizi sağlar.
 
-## cat ornek_dizin 
+```
+cat ornek_dizin 
+```
+
 Dosyanın içindeki verileri gösterir.	
 
-## cp ornek_dizin ornek_dizin 
+```
+cp ornek_dizin ornek_dizin 
+```
+
 Dosyayı kopyalamanızı sağlar.
 
-## cp ornek_dizin dosya/ ornek_dizin
+```
+cp ornek_dizin dosya/ ornek_dizin
+```
+
 Dizini istenilen dosyaya aktarmanızı sağlar.
 
