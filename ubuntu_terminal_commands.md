@@ -9,6 +9,9 @@ Bulunduğunuz dizinin (klasörün) ismini verir.
 ## explorer.exe .
 İçinde bulunduğunuz klasörü açmanızı sağlar.
 
+## echo $PATH
+Ortam değişkeninde bulunan dizinleri görmemizi sağlıyor.
+
 ## ls / dir
 Bulunduğunuz dizinin içeriğini görmenizi sağlar.
 
