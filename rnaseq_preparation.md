@@ -33,6 +33,7 @@ Veriyi indirmek için ID'si kopyalanmalıdır.
 
 ![Kopyalanması gereken ID](biyoinformatik/images/rnaseq_2.png)
 
+Kopyalanan ID aşağıda belirtilen `fasterq-dump` pakedi ile indirilir. 
 
 ```bash
 SRR=ERR3473047
