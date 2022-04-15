@@ -15,6 +15,7 @@ Merhabalar! Burada Biyoinformatik dersi hakkında gerekli bilgileri paylaşacağ
 + [Ubuntu subsystem](setup-ubuntu_subsystem.md)
 + [Linux komut satırı - 1](https://ubuntu.com/tutorials/command-line-for-beginners#3-opening-a-terminal)
 + [Linux komut satırı - 2](https://linuxcommand.org/lc3_learning_the_shell.php)
++ Kullanılacak veriler [veri1](https://drive.google.com/file/d/1SCGhfWTrxr6mOxac-k4ro9qbiUNORxoq/view?usp=sharing), [veri2](https://drive.google.com/file/d/1DQYGoOP4-WUs2LGxkwH9320Wu8lEdzJ8/view?usp=sharing)
 
 ## Faydalı kaynaklar
 
