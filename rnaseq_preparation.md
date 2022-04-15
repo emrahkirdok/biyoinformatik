@@ -30,3 +30,9 @@ fasterq-dump ${SRR} \
 
 ```
 
+## fastqc ile kalite kontrol
+
+```bash
+fastqc data/raw/${SRR}_1.fastq data/raw/${SRR}_2.fastq
+```
+
