@@ -54,3 +54,12 @@ fasterq-dump ${SRR} \
 fastqc data/raw/${SRR}_1.fastq data/raw/${SRR}_2.fastq
 ```
 
+## Cutadapt
+
+Cutadapt, istenmeyen dizi türlerini yüksek verimli dizileme okumalarından bulur ve kaldırır. Bunun için öncelikle `cutadapt` pakedi indirilmelidir.
+
+```bash
+conda install cutadapt
+
+conda install cutadapt -c bioconda -c conda-forge
+```
