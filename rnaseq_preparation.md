@@ -19,6 +19,18 @@ conda install fastqc -c bioconda -c conda-forge
 
 ## veri indirme 
 
+Veri indirmek için [bu linkten](https://www.ncbi.nlm.nih.gov/sra) SRA veri tabanı açılmalıdır. 
+
+İndirmek istediğimiz verinin ismini yazarak, çalışmaya uygun olan opsiyonlar seçilmelidir.  
+
+![SRA'da seçilecek opsiyonlar](biyoinformatik/images/rnaseq_1.png)
+
+Veriyi indirmek için ID'si kopyalanmalıdır.  
+
+![Kopyalanması gereken ID](biyoinformatik/images/rnaseq_2.png)
+
+
+
 ```bash
 SRR=ERR3473047
 
