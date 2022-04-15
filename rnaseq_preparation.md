@@ -21,11 +21,11 @@ conda install fastqc
 conda install fastqc -c bioconda -c conda-forge
 ```
 
-## veri indirme 
+## Veri indirme 
 
 Veri indirmek için [bu linkten](https://www.ncbi.nlm.nih.gov/sra) SRA veri tabanı açılmalıdır. 
 
-İndirmek istediğimiz verinin ismini yazarak, çalışmaya uygun olan opsiyonlar seçilmelidir.  
+İndirmek istenilen verinin ismi yazılararak, çalışmaya uygun olan opsiyonlar seçilmelidir.  
 
 ![SRA'da seçilecek opsiyonlar](biyoinformatik/images/rnaseq_1.png)
 
@@ -47,6 +47,8 @@ fasterq-dump ${SRR} \
 ```
 
 ## fastqc ile kalite kontrol
+
+İndirilen verinin kalite kontrolü yapılır.  
 
 ```bash
 fastqc data/raw/${SRR}_1.fastq data/raw/${SRR}_2.fastq
