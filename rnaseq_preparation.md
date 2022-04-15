@@ -17,3 +17,16 @@ conda install fastqc
 conda install fastqc -c bioconda -c conda-forge
 ```
 
+## veri indirme 
+
+```bash
+SRR=ERR3473047
+
+fasterq-dump ${SRR} \
+    --progress \
+    --skip-technical \
+    --split-files \
+    --outdir data/raw/ 
+
+```
+
