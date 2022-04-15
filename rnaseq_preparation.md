@@ -3,6 +3,8 @@
 
 ## Sra-toolkit İndirme
 
+Ubuntu komut satırına aşağıda verilen kodu yapıştırınız. 
+
 ```bash
 wget https://ftp-trace.ncbi.nlm.nih.gov/sra/sdk/3.0.0/sratoolkit.3.0.0-ubuntu64.tar.gz
 
@@ -10,6 +12,8 @@ tar -xzf sratoolkit.3.0.0-ubuntu64.tar.gz
 ```
 
 ## fastqc indirme 
+
+`fastqc` rnaseq verilerinin kalite kontolünü yapmamızı sağlayan bir pakettir. Bu paket aşağıda verilen komutla indirilir. 
 
 ```bash
 conda install fastqc
@@ -28,7 +32,6 @@ Veri indirmek için [bu linkten](https://www.ncbi.nlm.nih.gov/sra) SRA veri taba
 Veriyi indirmek için ID'si kopyalanmalıdır.  
 
 ![Kopyalanması gereken ID](biyoinformatik/images/rnaseq_2.png)
-
 
 
 ```bash
