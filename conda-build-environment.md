@@ -132,7 +132,7 @@ You can use explicit specification files to build an identical conda environment
 
 Use the terminal or an Anaconda Prompt for the following steps:
 
-1.	Run conda ` list --explicit ` to produce a spec list such as:
+1.	run conda ` list regex ` to list only the packages that match this regular expression.:
 
 ```
 # This file may be used to create an environment using:
