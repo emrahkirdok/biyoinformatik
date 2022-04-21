@@ -70,6 +70,10 @@ conda install cutadapt -c bioconda -c conda-forge
 
 Paketi çalıştırmak için aşağıdaki komut kullanılmalıdır. Değişkenler örnekteki gibidir. Yapılan çalışmaya göre parametreler değişkenlik gösterir. 
 
+
+
+```bash
+
 SRR=ERR3473047
 ADAPTER1=AGATCGGAAGAG
 ADAPTER2=AGATCGGAAGAG
@@ -78,7 +82,6 @@ Q1=20
 Q2=20
 MIN_LEN=10
 
-```bash
 cutadapt -q ${Q1} -Q ${Q2} -m ${MIN_LEN} --trim-n -Z -j ${THREADS} -a  ${ADAPTER1} -A ${ADAPTER2} -o data/processed/${SRR}_1.fastq.gz -p data/processed/${SRR}_2.fastq.gz data/raw/${SRR}_1.fastq data/raw/${SRR}_2.fastq
 ```
 
