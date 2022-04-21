@@ -63,6 +63,8 @@ Cutadapt, istenmeyen dizi türlerini yüksek verimli dizileme okumalarından bul
 ```bash
 conda install cutadapt
 
+conda install -c bioconda cutadapt
+
 conda install cutadapt -c bioconda -c conda-forge
 ```
 
