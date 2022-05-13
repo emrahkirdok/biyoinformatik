@@ -1,6 +1,6 @@
 # Hizalama ve varyant çağırma çalışması
 
-Hizalama çalışması için öncelikle [E. coli]() referans genomunu `data` klasörüne indirelim.
+Hizalama çalışması için öncelikle [E. coli](https://drive.google.com/file/d/1gvoOF6KXhgqUoYtCRpVRfeHQsbgla-nL/view?usp=sharing) referans genomunu `data` klasörüne indirelim.
 
 Programlar:
 
@@ -24,7 +24,7 @@ bwa index data/E_coli.fna
 
 ```
 
-Şimdi ise ileri ve geri yönlü okumaları referans genoma hizalayalım.
+Şimdi ise ileri ve geri yönlü okumaları referans genoma hizalayalım. Unutmayın, bir ders önce işlediğimiz okumaları hizalayacağız.
 
 İlk olarak sonuçları depolayacağımız `results` klasörünü oluşturalım:
 
