@@ -18,6 +18,7 @@ Merhabalar! Burada Biyoinformatik dersi hakkında gerekli bilgileri paylaşacağ
 + Kullanılacak veriler [veri1](https://drive.google.com/file/d/1SCGhfWTrxr6mOxac-k4ro9qbiUNORxoq/view?usp=sharing), [veri2](https://drive.google.com/file/d/1DQYGoOP4-WUs2LGxkwH9320Wu8lEdzJ8/view?usp=sharing)
 + [Ubuntu program kurulumu](./ubuntu_program_kurulumu.md)
 + [RNA seq çalışması](./rnaseq_preparation.md)
++ [Hizalama + Varyant çağırma dersi](./alignment.md)
 
 ## Faydalı kaynaklar
 
