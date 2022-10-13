@@ -8,6 +8,11 @@ Merhabalar! Burada Biyoinformatik dersi hakkında gerekli bilgileri paylaşacağ
 + Sunumlar: [Google Drive](https://drive.google.com/drive/folders/1ljvPpShbWLjfh8N2CEKOV9HAHdWuV7o9?usp=sharing)
 + [Mega kullanım kılavuzu](mega_guide.md)
 
+## Lisans seviyesi biyoinformatik
+
++ Hizalama dersi sunumu [PPTX](https://docs.google.com/presentation/d/1ltZMsjJqQuUz7atPP2toqPCLrusUdA4F/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
++ Needleman-Wunsch [WORD](https://docs.google.com/document/d/15X7wLJv82k4bnkm-51MNptHJzeHLW41rH3ABoTFoE2c/edit?usp=sharing)
+
 ## Ek bilgileri
 
 + [Git kurulumu](setup-git.md)
