@@ -12,8 +12,13 @@ Merhabalar! Burada Biyoinformatik dersi hakkında gerekli bilgileri paylaşacağ
 
 + Hizalama dersi sunumu [PPTX](https://docs.google.com/presentation/d/1ltZMsjJqQuUz7atPP2toqPCLrusUdA4F/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 + Needleman-Wunsch [WORD](https://docs.google.com/document/d/15X7wLJv82k4bnkm-51MNptHJzeHLW41rH3ABoTFoE2c/edit?usp=sharing)
++ BLAST [WORD](https://docs.google.com/document/d/1-uqz3JdV2B-g3s_gaDsPJUc8EpE1dkz7bou6PVY8v1E/edit?usp=sharing)
++ Örnek diziler
+    + [FASTA](https://drive.google.com/file/d/18FvZTZUNpIsOY7jiSWqSZDMovFrJIwHN/view?usp=sharing)
+    + [FASTQ ileri yönlü okumalar](https://drive.google.com/file/d/1ChZAI_W2GRyj7gJNT28D99TLVynOiCE4/view?usp=sharing)
+    + [FASTQ geri yönlü okumalar](https://drive.google.com/file/d/1FfTkvsq63b5-qBnWKKMyvtXQzSO-7IPc/view?usp=sharing)
 
-## Ek bilgileri
+## Ek bilgiler
 
 + [Git kurulumu](setup-git.md)
 + [Conda kurulumu](setup-conda.md)
