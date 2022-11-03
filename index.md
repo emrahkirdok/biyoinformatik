@@ -20,6 +20,7 @@ Merhabalar! Burada Biyoinformatik dersi hakkında gerekli bilgileri paylaşacağ
 + Moleküler Filogeni [PPTX](https://docs.google.com/presentation/d/1uYkQ37rtC8t9pNvSE-4K5xUiHUaKFEQ5/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 + Moleküler Filogeni Pratik [PPTX](https://docs.google.com/presentation/d/1Hzk0IMoIkSQId8PHjN3ZgEPEGLERlYZvh48KhNuwPWc/edit?usp=sharing)
 + UPGMA ile Ağaç [WORD](https://docs.google.com/document/d/1R7yItAjSHPXXI2iAgQrxJx3QJz3F4E7pgb5Rt9SzHtI/edit?usp=sharing)
++ Moleküler filogeni örnek veri [FASTA](https://drive.google.com/file/d/1d7yPGPl0oW_VQrm9F8QxaE7yvH2XEjRE/view?usp=sharing)
 
 
 ## Ek bilgiler
