@@ -39,6 +39,7 @@ Merhabalar! Burada Biyoinformatik dersi hakkında gerekli bilgileri paylaşacağ
     + Covid fastq dosyası geri okumalar [FASTQ.GZ](https://drive.google.com/file/d/1FfTkvsq63b5-qBnWKKMyvtXQzSO-7IPc/view?usp=sharing)
     + [WORD](https://docs.google.com/document/d/1iJJrHG6Ll8eL2B3Dah3tMgsuLRrzmWW0u8rvaeWt5yI/edit?usp=sharing)
     + [PPTX](https://docs.google.com/presentation/d/1aRTRcNgffTXWx2Hp8ND6SMFX8_TwqkNxSvsuwnxGN8w/edit?usp=sharing)
++ [Use galaxy EU](https://usegalaxy.eu/)
 
 ## Ek bilgiler
 
