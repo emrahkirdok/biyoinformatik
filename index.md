@@ -19,12 +19,26 @@ Merhabalar! Burada Biyoinformatik dersi hakkında gerekli bilgileri paylaşacağ
     + [FASTQ geri yönlü okumalar](https://drive.google.com/file/d/1FfTkvsq63b5-qBnWKKMyvtXQzSO-7IPc/view?usp=sharing)
 + Moleküler Filogeni [PPTX](https://docs.google.com/presentation/d/1uYkQ37rtC8t9pNvSE-4K5xUiHUaKFEQ5/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 + Moleküler Filogeni Pratik [PPTX](https://docs.google.com/presentation/d/1Hzk0IMoIkSQId8PHjN3ZgEPEGLERlYZvh48KhNuwPWc/edit?usp=sharing)
-+ UPGMA ile Ağaç [WORD](https://docs.google.com/document/d/1R7yItAjSHPXXI2iAgQrxJx3QJz3F4E7pgb5Rt9SzHtI/edit?usp=sharing)
++ UPGMA ile Ağaç [WORD](https://docs.google.com/document/d/1wOaGv1VLQYV5Njexa18EZWW01T1At59y/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 + Moleküler filogeni uygulama:
     + Örnek veri [FASTA](https://drive.google.com/file/d/1d7yPGPl0oW_VQrm9F8QxaE7yvH2XEjRE/view?usp=sharing)
     + ClustalW çoklu hizalama algoritması [Link](https://www.ebi.ac.uk/Tools/msa/clustalo/)
     + Simple phylogeny [Link](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/)
-
++ Veritabanları
+    + Ekran görüntüleri [PPTX](https://docs.google.com/presentation/d/1MazYbTa5qhedu8xHhRJC9MpWsIDrSJhSqkVq8--3m_A/edit?usp=sharing)
+    + Kullanım kılavuz [WORD](https://docs.google.com/document/d/1RU7OXs_bvhjhxtZcRSkD97L_Ol48IyKmMcCKM5iv3HU/edit?usp=sharing)
++ Galaxy hesap açma [PPTX](https://docs.google.com/presentation/d/1Gd5XPm19J2B6IwoSTndHT5ojwtdBv17W/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
++ Galaxy kullanım kılavuzu (Giriş)
+    + Kullanım kılavuzu [WORD](https://docs.google.com/document/d/12kI8JWAATw-cuxNqSPQ3m6KWG_5TPkSIiTzr54GpuOM/edit?usp=sharing)
+    + Kullanım kılavuzu [PPTX](https://docs.google.com/presentation/d/1AbLXYKrsWzXSr4xjMeUl0DYcmOv12ow_vV8goZG9USE/edit?usp=sharing)
++ Galaxy veri yükleme
+    + Bilgisayardan Galaxy sistemine veri yükleme [PPTX](https://docs.google.com/presentation/d/1oqrIdeWL3YPoVGzzQxTn0zMIH5tSag_D/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
+    + NCBI NT veri tabanından Galaxy sistemine veri yükleme [PPTX](https://docs.google.com/presentation/d/1thAha4iQeUvJc_dDCTYB-_SCGkrjv5eL/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
++ FASTQ Kalite kontrolü
+    + Covid fastq dosyası ileri okumalar [FASTQ.GZ](https://drive.google.com/file/d/1ChZAI_W2GRyj7gJNT28D99TLVynOiCE4/view?usp=sharing)
+    + Covid fastq dosyası geri okumalar [FASTQ.GZ](https://drive.google.com/file/d/1FfTkvsq63b5-qBnWKKMyvtXQzSO-7IPc/view?usp=sharing)
+    + [WORD](https://docs.google.com/document/d/1iJJrHG6Ll8eL2B3Dah3tMgsuLRrzmWW0u8rvaeWt5yI/edit?usp=sharing)
+    + [PPTX](https://docs.google.com/presentation/d/1aRTRcNgffTXWx2Hp8ND6SMFX8_TwqkNxSvsuwnxGN8w/edit?usp=sharing)
 
 ## Ek bilgiler
 
