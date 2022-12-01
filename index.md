@@ -44,6 +44,8 @@ Merhabalar! Burada Biyoinformatik dersi hakkında gerekli bilgileri paylaşacağ
 + [Use galaxy EU](https://usegalaxy.eu/)
 + INTRO NGS [PPTX](https://docs.google.com/presentation/d/1RJGGq_6hG5QV0laz781-rl9aHiUjAe_n/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 + Hizalama ve varyant çağırma [PPTX](https://docs.google.com/presentation/d/1n2SughF53E1E8IckgLtsXmB4Fh79ijjW/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
++ Hizalama kılavuzu [PPTX](https://docs.google.com/presentation/d/1OHkdMCZsdqcc_w2XmpsJiFqsAya9telAaGAkCRs9mvA/edit?usp=sharing)
++ Hizalama kılavuzu [WORD](https://docs.google.com/document/d/1wgy-rnp3-9daa5PfN2Fe2MYITwBkH1Q1fDqatPymkSY/edit?usp=sharing)
 
 ## Ek bilgiler
 
