@@ -47,6 +47,10 @@ Merhabalar! Burada Biyoinformatik dersi hakkında gerekli bilgileri paylaşacağ
 + Hizalama ve varyant çağırma [PPTX](https://docs.google.com/presentation/d/1n2SughF53E1E8IckgLtsXmB4Fh79ijjW/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 + Hizalama kılavuzu [PPTX](https://docs.google.com/presentation/d/1OHkdMCZsdqcc_w2XmpsJiFqsAya9telAaGAkCRs9mvA/edit?usp=sharing)
 + Hizalama kılavuzu [WORD](https://docs.google.com/document/d/1wgy-rnp3-9daa5PfN2Fe2MYITwBkH1Q1fDqatPymkSY/edit?usp=sharing)
++ Hizalama ve varyant çağırma dersi
+    + Covid referans genomu [Fasta](https://drive.google.com/file/d/1q_I6vmS2MxHl4jfzvXFtaPARqA6Uxwm1/view?usp=sharing)
+    + Covid ileri okumaları (ERR4082748) [fastq.gz](https://drive.google.com/file/d/1k0itARUqieTEdDLUGp3GlBzZ3N2wPTxj/view?usp=sharing)
+    + Covid geri okumaları (ERR4082748) [fastq.gz](https://drive.google.com/file/d/1GzTlND5Kc1-eZQYlvaKn9V0GHHwC-Fk9/view?usp=sharing)
 
 ## Ek bilgiler
 
