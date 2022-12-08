@@ -41,6 +41,7 @@ Merhabalar! Burada Biyoinformatik dersi hakkında gerekli bilgileri paylaşacağ
     + [PPTX](https://docs.google.com/presentation/d/1aRTRcNgffTXWx2Hp8ND6SMFX8_TwqkNxSvsuwnxGN8w/edit?usp=sharing)
     + Cutadapt ile fastq dosyalarının işlenmesi [WORD](https://docs.google.com/document/d/1EZyOjRfp7iMDuQVLWPb1IZ1PztSBmn_B_AYdkfNUBxM/edit?usp=sharing)
     + Cutadapt ile fastq dosyalarının işlenmesi [PPTX](https://docs.google.com/presentation/d/1lgDkOE54B1ey8eAEi-Jq97tH6koKfoQ-uLV0MPy_1SY/edit?usp=sharing)
+    + Ders ekibinin hazırladığı fastq işleme dosyası [PPTX](https://docs.google.com/presentation/d/1703NwHhgKSsFD_-nGdrEJlO-KHY4t7wA/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 + [Use galaxy EU](https://usegalaxy.eu/)
 + INTRO NGS [PPTX](https://docs.google.com/presentation/d/1RJGGq_6hG5QV0laz781-rl9aHiUjAe_n/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 + Hizalama ve varyant çağırma [PPTX](https://docs.google.com/presentation/d/1n2SughF53E1E8IckgLtsXmB4Fh79ijjW/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
