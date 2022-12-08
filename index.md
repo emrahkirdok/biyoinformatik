@@ -51,6 +51,7 @@ Merhabalar! Burada Biyoinformatik dersi hakkında gerekli bilgileri paylaşacağ
     + Covid referans genomu [Fasta](https://drive.google.com/file/d/1q_I6vmS2MxHl4jfzvXFtaPARqA6Uxwm1/view?usp=sharing)
     + Covid ileri okumaları (ERR4082748) [fastq.gz](https://drive.google.com/file/d/1k0itARUqieTEdDLUGp3GlBzZ3N2wPTxj/view?usp=sharing)
     + Covid geri okumaları (ERR4082748) [fastq.gz](https://drive.google.com/file/d/1GzTlND5Kc1-eZQYlvaKn9V0GHHwC-Fk9/view?usp=sharing)
+    + Covid verileri internet sites [site](https://www.ncbi.nlm.nih.gov/sars-cov-2/)
 
 ## Ek bilgiler
 
