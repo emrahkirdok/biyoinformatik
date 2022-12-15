@@ -52,6 +52,11 @@ Merhabalar! Burada Biyoinformatik dersi hakkında gerekli bilgileri paylaşacağ
     + Covid ileri okumaları (ERR4082748) [fastq.gz](https://drive.google.com/file/d/1k0itARUqieTEdDLUGp3GlBzZ3N2wPTxj/view?usp=sharing)
     + Covid geri okumaları (ERR4082748) [fastq.gz](https://drive.google.com/file/d/1GzTlND5Kc1-eZQYlvaKn9V0GHHwC-Fk9/view?usp=sharing)
     + Covid verileri internet sites [site](https://www.ncbi.nlm.nih.gov/sars-cov-2/)
++ Maximmum Likelihood ile genotip çağırma [Word](https://docs.google.com/document/d/1sanKmM5zEocsYxYWPnRKKnsOQplToALy/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
++ Hizalama Galaxy kullanım slaytları [PPTX](https://docs.google.com/presentation/d/1pfmauxPhFBuKU-SH1-q1gkiuBHz5Vm-H/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
++ Genotip ve varyant çağırma Galaxy kullanım slaytları [PPT](https://docs.google.com/presentation/d/138DkEBmDJir6pdsq-38ysHD5tdBtJ8daBc_8VuQIOp4/edit?usp=sharing)
+
+
 
 ## Ek bilgiler
 
