@@ -76,8 +76,8 @@ bwa sampe data/E_coli.fna results/ERR3473047_1.sai results/ERR3473047_2.sai data
 Varyant çağırmak için ilk olarak elde ettiğimiz bam dosyasını indeksleyip, sıralamamımz gerek
 
 ```bash
-samtools sort results/ERR3473047.bam -o results/ERR3473047_sorted.bam
-samtools index results/ERR3473047_sorted.bam
+samtools sort results/ERR3473047.bam -o results/ERR3473047.sorted.bam
+samtools index results/ERR3473047.sorted.bam
 ```
 
 Bu işlem sonucunda `bai` uzantılı bir index dosyası oluşmalı. Bu dosya bizim için önemli. Bir yerden bir yere kopyalama esnasında, bu dosyayı da yüklemeliyiz.
@@ -85,6 +85,6 @@ Bu işlem sonucunda `bai` uzantılı bir index dosyası oluşmalı. Bu dosya biz
 Sonraki adımda ise `bcftools` programını kullanarak varyant çağırma işlemini gerçekleştirebiliriz:
 
 ```bash
- bcftools mpileup -Ov --fasta-ref data/E_coli.fna results/ERR3473047_sorted.bam | bcftools call -mv -Ov -o results/calls.vcf
+ bcftools mpileup -Ov --fasta-ref data/E_coli.fna results/ERR3473047.sorted.bam | bcftools call -mv -Ov -o results/calls.vcf
 ```
 
