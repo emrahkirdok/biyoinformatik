@@ -54,7 +54,7 @@ Ama bu dosya hizalanmamış okumaları da içeriyor. Sonraki adımlara geçmek i
 
 ```bash
 
-samtools view -F4 -Sb results/ERR3473047.sam > results/ERR3473047.bam
+samtools view -F12 -Sb results/ERR3473047.sam > results/ERR3473047.bam
 
 ```
 
