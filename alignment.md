@@ -45,7 +45,7 @@ Bir sonraki adımda hizalama işlemini gerçekleştirelim:
 
 ```bash
 
-bwa sampe data/E_coli.fna results/ERR3473047_1.sai results/ERR3473047_2.sai data/ERR3473047_1_processed.fastq.gz data/ERR3473047_2_processed.fastq.gz > results/E_coli.sam
+bwa sampe data/E_coli.fna results/ERR3473047_1.sai results/ERR3473047_2.sai data/ERR3473047_1_processed.fastq.gz data/ERR3473047_2_processed.fastq.gz > results/ERR3473047.sam
 ```
 
 Elde ettiğimiz dosya bir `sam` dosyası olacaktır.
@@ -54,20 +54,20 @@ Ama bu dosya hizalanmamış okumaları da içeriyor. Sonraki adımlara geçmek i
 
 ```bash
 
-samtools view -F4 -Sb results/E_coli.sam > results/E_coli.bam
+samtools view -F4 -Sb results/ERR3473047.sam > results/ERR3473047.bam
 
 ```
 
 İstersek `samtools view` komutu ile bu dosyayı inceleyebiliriz:
 
 ```bash
-samtools view results/E_coli.bam | less
+samtools view results/ERR3473047.bam | less
 ``` 
 
 Ama istersek tüm bu adımları tek bir satıra indirgeyebiliriz:
 
 ```bash
-bwa sampe data/E_coli.fna results/ERR3473047_1.sai results/ERR3473047_2.sai data/ERR3473047_1_processed.fastq.gz data/ERR3473047_2_processed.fastq.gz | samtools view -F4 -Sb > results/E_coli.bam
+bwa sampe data/E_coli.fna results/ERR3473047_1.sai results/ERR3473047_2.sai data/ERR3473047_1_processed.fastq.gz data/ERR3473047_2_processed.fastq.gz | samtools view -F4 -Sb > results/ERR3473047.bam
 
 ``` 
 
@@ -76,8 +76,8 @@ bwa sampe data/E_coli.fna results/ERR3473047_1.sai results/ERR3473047_2.sai data
 Varyant çağırmak için ilk olarak elde ettiğimiz bam dosyasını indeksleyip, sıralamamımz gerek
 
 ```bash
-samtools sort results/E_coli.bam -o results/E_coli_sorted.bam
-samtools index results/E_coli_sorted.bam
+samtools sort results/ERR3473047.bam -o results/ERR3473047_sorted.bam
+samtools index results/ERR3473047_sorted.bam
 ```
 
 Bu işlem sonucunda `bai` uzantılı bir index dosyası oluşmalı. Bu dosya bizim için önemli. Bir yerden bir yere kopyalama esnasında, bu dosyayı da yüklemeliyiz.
@@ -85,6 +85,6 @@ Bu işlem sonucunda `bai` uzantılı bir index dosyası oluşmalı. Bu dosya biz
 Sonraki adımda ise `bcftools` programını kullanarak varyant çağırma işlemini gerçekleştirebiliriz:
 
 ```bash
- bcftools mpileup -Ov --fasta-ref data/E_coli.fna results/E_coli_sorted.bam | bcftools call -mv -Ov -o results/calls.vcf
+ bcftools mpileup -Ov --fasta-ref data/E_coli.fna results/ERR3473047_sorted.bam | bcftools call -mv -Ov -o results/calls.vcf
 ```
 
