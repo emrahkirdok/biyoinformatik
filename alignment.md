@@ -67,7 +67,7 @@ samtools view results/ERR3473047.bam | less
 Ama istersek tüm bu adımları tek bir satıra indirgeyebiliriz:
 
 ```bash
-bwa sampe data/E_coli.fna results/ERR3473047_1.sai results/ERR3473047_2.sai data/ERR3473047_1_processed.fastq.gz data/ERR3473047_2_processed.fastq.gz | samtools view -F4 -Sb > results/ERR3473047.bam
+bwa sampe data/E_coli.fna results/ERR3473047_1.sai results/ERR3473047_2.sai data/ERR3473047_1_processed.fastq.gz data/ERR3473047_2_processed.fastq.gz | samtools view -F4 -q30 -Sb > results/ERR3473047.bam
 
 ``` 
 
