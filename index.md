@@ -57,7 +57,9 @@ Merhabalar! Burada Biyoinformatik dersi hakkında gerekli bilgileri paylaşacağ
 + Genotip ve varyant çağırma Galaxy kullanım slaytları [PPT](https://docs.google.com/presentation/d/138DkEBmDJir6pdsq-38ysHD5tdBtJ8daBc_8VuQIOp4/edit?usp=sharing)
 + Snippy aracı ile hizalama ve varyant çağırma [WORD](https://docs.google.com/document/d/17e55kWoHYN_RaEyPrWZHJYinZ5MTr4KmYfGGfDP0loE/edit?usp=sharing)
 + Snippy aracı ile hizalama ve varyant çağırma [PPTX](https://docs.google.com/presentation/d/1U670HtYQW6BezaWofaJiqJpQctllSzdJ1fPy4LJUHK0/edit?usp=sharing)
++ Ders ekibinin hazıraldığı BCFtools ile varyant çağırma ve filtreleme [PPTX](https://docs.google.com/presentation/d/1pZKYguF-ZM7PVzTzx_ITSHC0vj6S_k1K/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 
++ Metagenomik [PPTX](https://docs.google.com/presentation/d/1Ut7JtGlicFjNkW4iBAivIqNMftSk7O70/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 
 ## Ek bilgiler
 
