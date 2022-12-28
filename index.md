@@ -73,6 +73,7 @@ Merhabalar! Burada Biyoinformatik dersi hakkında gerekli bilgileri paylaşacağ
 + [RNA seq çalışması](./rnaseq_preparation.md)
 + [Fastq kalite kontrol](./fastq_kalite_kontrol.md)
 + [Hizalama + Varyant çağırma dersi](./alignment.md)
++ [Script](./script.md)
 
 ## Faydalı kaynaklar
 
