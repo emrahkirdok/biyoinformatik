@@ -60,6 +60,7 @@ Merhabalar! Burada Biyoinformatik dersi hakkında gerekli bilgileri paylaşacağ
 + Ders ekibinin hazıraldığı BCFtools ile varyant çağırma ve filtreleme [PPTX](https://docs.google.com/presentation/d/1pZKYguF-ZM7PVzTzx_ITSHC0vj6S_k1K/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 
 + Metagenomik [PPTX](https://docs.google.com/presentation/d/1Ut7JtGlicFjNkW4iBAivIqNMftSk7O70/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
++ Metagenomik veri [veri](https://figshare.scilifelab.se/ndownloader/files/37687254)
 
 ## Ek bilgiler
 
