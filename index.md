@@ -61,6 +61,7 @@ Merhabalar! Burada Biyoinformatik dersi hakkında gerekli bilgileri paylaşacağ
 
 + Metagenomik [PPTX](https://docs.google.com/presentation/d/1Ut7JtGlicFjNkW4iBAivIqNMftSk7O70/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 + Metagenomik veri [veri](https://figshare.scilifelab.se/ndownloader/files/37687254)
++ [Workflow oluşturma](https://docs.google.com/presentation/d/1nXuNI_wn1ojv02iNHfoR7MR69Yj_sf1_V-2lmvJPWjQ/edit?usp=sharing)
 
 ## Ek bilgiler
 
