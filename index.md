@@ -2,7 +2,28 @@
 
 Merhabalar! Burada Biyoinformatik dersi hakkında gerekli bilgileri paylaşacağım.
 
+## Galaxy sistemi
+
+Dersimiz çoğunlukla, açık ve özgür bir biyoinformatik platformu olan Galaxy sunucuları üzerinde işlenecektir. Bu sunucular üzerinde ücretsiz hesap açarak, işlerinizi yürütebilirsiniz. Ders kapsamında ilk gösterdiğim sunucuyu kullanacağım, ancak siz hepsinde hesap açabilirsiniz. Bu sayede bir sunucu yoğunsa, işinizi diğer sunucu üzerinde gönderebilirsiniz.
+
++ [Useagalaxy.eu](https://usegalaxy.eu/) Ders kapsamında öncelikli olarak bu sunucuyu kullanacağız. 
+
+Alternatif sunucular:
+
++ [Usegalaxy.org](https://usegalaxy.org/)
++ [Useagalaxy.eu](https://usegalaxy.org.au/)
+
+Her sunucuda ufak tefek farklılıklar bulunmakta, ama genel kullanım mantığı aynıdır. Duruma göre diğer sunucuları da kullanabiliriz.
+
++ Galaxy hesap açma rehberi [PPTX](https://docs.google.com/presentation/d/1Gd5XPm19J2B6IwoSTndHT5ojwtdBv17W/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
+
+**E posta adresinizi onaylatmanız gerekmektedir!**
+
 ## Dersler
+
++ Veritabanları
+    + Ekran görüntüleri [PPTX](https://docs.google.com/presentation/d/1MazYbTa5qhedu8xHhRJC9MpWsIDrSJhSqkVq8--3m_A/edit?usp=sharing)
+    + Kullanım kılavuz [WORD](https://docs.google.com/document/d/1RU7OXs_bvhjhxtZcRSkD97L_Ol48IyKmMcCKM5iv3HU/edit?usp=sharing)
 
 + Needleman-Wunsch global hizalama algoritmasının R üzerinde basit bir uygulaması [html](needleman_wunsch.html)
 + Sunumlar: [Google Drive](https://drive.google.com/drive/folders/1ljvPpShbWLjfh8N2CEKOV9HAHdWuV7o9?usp=sharing)
@@ -24,10 +45,7 @@ Merhabalar! Burada Biyoinformatik dersi hakkında gerekli bilgileri paylaşacağ
     + Örnek veri [FASTA](https://drive.google.com/file/d/1d7yPGPl0oW_VQrm9F8QxaE7yvH2XEjRE/view?usp=sharing)
     + ClustalW çoklu hizalama algoritması [Link](https://www.ebi.ac.uk/Tools/msa/clustalo/)
     + Simple phylogeny [Link](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/)
-+ Veritabanları
-    + Ekran görüntüleri [PPTX](https://docs.google.com/presentation/d/1MazYbTa5qhedu8xHhRJC9MpWsIDrSJhSqkVq8--3m_A/edit?usp=sharing)
-    + Kullanım kılavuz [WORD](https://docs.google.com/document/d/1RU7OXs_bvhjhxtZcRSkD97L_Ol48IyKmMcCKM5iv3HU/edit?usp=sharing)
-+ Galaxy hesap açma [PPTX](https://docs.google.com/presentation/d/1Gd5XPm19J2B6IwoSTndHT5ojwtdBv17W/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
+
 + Galaxy kullanım kılavuzu (Giriş)
     + Kullanım kılavuzu [WORD](https://docs.google.com/document/d/12kI8JWAATw-cuxNqSPQ3m6KWG_5TPkSIiTzr54GpuOM/edit?usp=sharing)
     + Kullanım kılavuzu [PPTX](https://docs.google.com/presentation/d/1AbLXYKrsWzXSr4xjMeUl0DYcmOv12ow_vV8goZG9USE/edit?usp=sharing)
