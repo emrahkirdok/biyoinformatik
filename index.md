@@ -48,13 +48,17 @@ Her sunucuda ufak tefek farklılıklar bulunmakta, ama genel kullanım mantığ�
     + Cutadapt ile fastq dosyalarının işlenmesi [WORD](https://docs.google.com/document/d/1EZyOjRfp7iMDuQVLWPb1IZ1PztSBmn_B_AYdkfNUBxM/edit?usp=sharing)
     + Cutadapt ile fastq dosyalarının işlenmesi [PPTX](https://docs.google.com/presentation/d/1lgDkOE54B1ey8eAEi-Jq97tH6koKfoQ-uLV0MPy_1SY/edit?usp=sharing)
     + Ders ekibinin hazırladığı fastq işleme dosyası [PPTX](https://docs.google.com/presentation/d/1703NwHhgKSsFD_-nGdrEJlO-KHY4t7wA/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
-+ Needleman-Wunsch global hizalama algoritmasının R üzerinde basit bir uygulaması [html](needleman_wunsch.html)
+
++ DNA dizi hizalama:
+    + Hizalama dersi sunumu [PPTX](https://docs.google.com/presentation/d/1ltZMsjJqQuUz7atPP2toqPCLrusUdA4F/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
+
+ Needleman-Wunsch global hizalama algoritmasının R üzerinde basit bir uygulaması [html](needleman_wunsch.html)
 + Sunumlar: [Google Drive](https://drive.google.com/drive/folders/1ljvPpShbWLjfh8N2CEKOV9HAHdWuV7o9?usp=sharing)
 + [Mega kullanım kılavuzu](mega_guide.md)
 
 ## Lisans seviyesi biyoinformatik
 
-+ Hizalama dersi sunumu [PPTX](https://docs.google.com/presentation/d/1ltZMsjJqQuUz7atPP2toqPCLrusUdA4F/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
+
 + Needleman-Wunsch [WORD](https://docs.google.com/document/d/15X7wLJv82k4bnkm-51MNptHJzeHLW41rH3ABoTFoE2c/edit?usp=sharing)
 + BLAST [WORD](https://docs.google.com/document/d/1-uqz3JdV2B-g3s_gaDsPJUc8EpE1dkz7bou6PVY8v1E/edit?usp=sharing)
 
