@@ -6,12 +6,12 @@ Merhabalar! Burada Biyoinformatik dersi hakkında gerekli bilgileri paylaşacağ
 
 Dersimiz çoğunlukla, açık ve özgür bir biyoinformatik platformu olan Galaxy sunucuları üzerinde işlenecektir. Bu sunucular üzerinde ücretsiz hesap açarak, işlerinizi yürütebilirsiniz. Ders kapsamında ilk gösterdiğim sunucuyu kullanacağım, ancak siz hepsinde hesap açabilirsiniz. Bu sayede bir sunucu yoğunsa, işinizi diğer sunucu üzerinde gönderebilirsiniz.
 
-+ [Useagalaxy.eu](https://usegalaxy.eu/) Ders kapsamında öncelikli olarak bu sunucuyu kullanacağız. 
++ [Usegalaxy.eu](https://usegalaxy.eu/) Ders kapsamında öncelikli olarak bu sunucuyu kullanacağız. 
 
 Alternatif sunucular:
 
 + Amerika sunucusu [Usegalaxy.org](https://usegalaxy.org/)
-+ Avusturalya sunucusu [Useagalaxy.au](https://usegalaxy.org.au/)
++ Avusturalya sunucusu [Usegalaxy.au](https://usegalaxy.org.au/)
 
 Her sunucuda ufak tefek farklılıklar bulunmakta, ama genel kullanım mantığı aynıdır. Duruma göre diğer sunucuları da kullanabiliriz.
 
@@ -51,16 +51,14 @@ Her sunucuda ufak tefek farklılıklar bulunmakta, ama genel kullanım mantığ�
 
 + DNA dizi hizalama:
     + Hizalama dersi sunumu [PPTX](https://docs.google.com/presentation/d/1ltZMsjJqQuUz7atPP2toqPCLrusUdA4F/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
+    + Needleman-Wunsch [WORD](https://docs.google.com/document/d/15X7wLJv82k4bnkm-51MNptHJzeHLW41rH3ABoTFoE2c/edit?usp=sharing)
+    + BLAST [WORD](https://docs.google.com/document/d/1-uqz3JdV2B-g3s_gaDsPJUc8EpE1dkz7bou6PVY8v1E/edit?usp=sharing)
+    + Needleman-Wunsch global hizalama algoritmasının R üzerinde basit bir uygulaması [html](needleman_wunsch.html)
 
- Needleman-Wunsch global hizalama algoritmasının R üzerinde basit bir uygulaması [html](needleman_wunsch.html)
 + Sunumlar: [Google Drive](https://drive.google.com/drive/folders/1ljvPpShbWLjfh8N2CEKOV9HAHdWuV7o9?usp=sharing)
 + [Mega kullanım kılavuzu](mega_guide.md)
 
 ## Lisans seviyesi biyoinformatik
-
-
-+ Needleman-Wunsch [WORD](https://docs.google.com/document/d/15X7wLJv82k4bnkm-51MNptHJzeHLW41rH3ABoTFoE2c/edit?usp=sharing)
-+ BLAST [WORD](https://docs.google.com/document/d/1-uqz3JdV2B-g3s_gaDsPJUc8EpE1dkz7bou6PVY8v1E/edit?usp=sharing)
 
 + Moleküler Filogeni [PPTX](https://docs.google.com/presentation/d/1uYkQ37rtC8t9pNvSE-4K5xUiHUaKFEQ5/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 + Moleküler Filogeni Pratik [PPTX](https://docs.google.com/presentation/d/1Hzk0IMoIkSQId8PHjN3ZgEPEGLERlYZvh48KhNuwPWc/edit?usp=sharing)
