@@ -58,8 +58,6 @@ Her sunucuda ufak tefek farklılıklar bulunmakta, ama genel kullanım mantığ�
 + Sunumlar: [Google Drive](https://drive.google.com/drive/folders/1ljvPpShbWLjfh8N2CEKOV9HAHdWuV7o9?usp=sharing)
 + [Mega kullanım kılavuzu](mega_guide.md)
 
-## Lisans seviyesi biyoinformatik
-
 + Moleküler Filogeni [PPTX](https://docs.google.com/presentation/d/1uYkQ37rtC8t9pNvSE-4K5xUiHUaKFEQ5/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 + Moleküler Filogeni Pratik [PPTX](https://docs.google.com/presentation/d/1Hzk0IMoIkSQId8PHjN3ZgEPEGLERlYZvh48KhNuwPWc/edit?usp=sharing)
 + UPGMA ile Ağaç [WORD](https://docs.google.com/document/d/1wOaGv1VLQYV5Njexa18EZWW01T1At59y/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
@@ -67,6 +65,8 @@ Her sunucuda ufak tefek farklılıklar bulunmakta, ama genel kullanım mantığ�
     + Örnek veri [FASTA](https://drive.google.com/file/d/1d7yPGPl0oW_VQrm9F8QxaE7yvH2XEjRE/view?usp=sharing)
     + ClustalW çoklu hizalama algoritması [Link](https://www.ebi.ac.uk/Tools/msa/clustalo/)
     + Simple phylogeny [Link](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/)
+
+## Lisans seviyesi biyoinformatik
 
 + Hizalama ve varyant çağırma [PPTX](https://docs.google.com/presentation/d/1n2SughF53E1E8IckgLtsXmB4Fh79ijjW/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 + Hizalama kılavuzu [PPTX](https://docs.google.com/presentation/d/1OHkdMCZsdqcc_w2XmpsJiFqsAya9telAaGAkCRs9mvA/edit?usp=sharing)
