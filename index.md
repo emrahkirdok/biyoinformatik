@@ -55,7 +55,6 @@ Her sunucuda ufak tefek farklılıklar bulunmakta, ama genel kullanım mantığ�
     + BLAST [WORD](https://docs.google.com/document/d/1-uqz3JdV2B-g3s_gaDsPJUc8EpE1dkz7bou6PVY8v1E/edit?usp=sharing)
     + Needleman-Wunsch global hizalama algoritmasının R üzerinde basit bir uygulaması [html](needleman_wunsch.html)
 
-+ Sunumlar: [Google Drive](https://drive.google.com/drive/folders/1ljvPpShbWLjfh8N2CEKOV9HAHdWuV7o9?usp=sharing)
 + [Mega kullanım kılavuzu](mega_guide.md)
 
 + Moleküler Filogeni [PPTX](https://docs.google.com/presentation/d/1uYkQ37rtC8t9pNvSE-4K5xUiHUaKFEQ5/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
@@ -67,6 +66,8 @@ Her sunucuda ufak tefek farklılıklar bulunmakta, ama genel kullanım mantığ�
     + Simple phylogeny [Link](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/)
 
 ## Lisans seviyesi biyoinformatik
+
++ Sunumlar: [Google Drive](https://drive.google.com/drive/folders/1ljvPpShbWLjfh8N2CEKOV9HAHdWuV7o9?usp=sharing)
 
 + Hizalama ve varyant çağırma [PPTX](https://docs.google.com/presentation/d/1n2SughF53E1E8IckgLtsXmB4Fh79ijjW/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 + Hizalama kılavuzu [PPTX](https://docs.google.com/presentation/d/1OHkdMCZsdqcc_w2XmpsJiFqsAya9telAaGAkCRs9mvA/edit?usp=sharing)
