@@ -52,6 +52,7 @@ Her sunucuda ufak tefek farklılıklar bulunmakta, ama genel kullanım mantığ�
 + DNA dizi hizalama:
     + Hizalama dersi sunumu [PPTX](https://docs.google.com/presentation/d/1ltZMsjJqQuUz7atPP2toqPCLrusUdA4F/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
     + Needleman-Wunsch [WORD](https://docs.google.com/document/d/15X7wLJv82k4bnkm-51MNptHJzeHLW41rH3ABoTFoE2c/edit?usp=sharing)
+    + Hizalama dersi pratik [WORD](https://docs.google.com/document/d/1mwNi8Jf8rp2AuO5u4y7k7NQOdXv__1PVhqhNF_RyMFY/edit?usp=sharing)
     + BLAST [WORD](https://docs.google.com/document/d/1-uqz3JdV2B-g3s_gaDsPJUc8EpE1dkz7bou6PVY8v1E/edit?usp=sharing)
     + Needleman-Wunsch global hizalama algoritmasının R üzerinde basit bir uygulaması [html](needleman_wunsch.html)
 
