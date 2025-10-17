@@ -48,6 +48,7 @@ Her sunucuda ufak tefek farklılıklar bulunmakta, ama genel kullanım mantığ�
     + Cutadapt ile fastq dosyalarının işlenmesi [WORD](https://docs.google.com/document/d/1EZyOjRfp7iMDuQVLWPb1IZ1PztSBmn_B_AYdkfNUBxM/edit?usp=sharing)
     + Cutadapt ile fastq dosyalarının işlenmesi [PPTX](https://docs.google.com/presentation/d/1lgDkOE54B1ey8eAEi-Jq97tH6koKfoQ-uLV0MPy_1SY/edit?usp=sharing)
     + Ders ekibinin hazırladığı fastq işleme dosyası [PPTX](https://docs.google.com/presentation/d/1703NwHhgKSsFD_-nGdrEJlO-KHY4t7wA/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
+    + Cutadapt programı ile Adaptör dizilerinin tanımlanması, Ahmet Berkay Demirseçen [PPTX](https://docs.google.com/presentation/d/17SrT13Qxy6vc3VWYrB8EG1KMqKttZsfl/edit?usp=sharing&ouid=102361894854210749279&rtpof=true&sd=true)
 
 + DNA dizi hizalama:
     + Hizalama dersi sunumu [PPTX](https://docs.google.com/presentation/d/1ltZMsjJqQuUz7atPP2toqPCLrusUdA4F/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
