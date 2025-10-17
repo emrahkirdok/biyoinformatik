@@ -19,6 +19,12 @@ Her sunucuda ufak tefek farklılıklar bulunmakta, ama genel kullanım mantığ�
 
 **E posta adresinizi onaylatmanız gerekmektedir!**
 
+## Ödevlerin hazırlanması
+
+Ders kapsamında biyoinformatik analiz temelli ödevler verilecektir. Bu ödevlerin hazırlanması için aşağıdaki belgeyi taslak olarak kullanabilirsiniz. Hazırlayacağınız ödev tabii ki çalıştığınız konuya göre örnek verilen ödevden farklılaşmalı, ama temel bir taslak olarak kullanabilirsiniz:
+
++ Ödev [WORD](https://docs.google.com/document/d/1lY3E3s5hOeaalMG_uZkvNkbdeRCU2tFK/edit?usp=sharing&ouid=102361894854210749279&rtpof=true&sd=true)
+
 ## Dersler
 
 + Veritabanları
