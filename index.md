@@ -70,8 +70,8 @@ Ders kapsamında biyoinformatik analiz temelli ödevler verilecektir. Bu ödevle
 + UPGMA ile Ağaç [WORD](https://docs.google.com/document/d/1wOaGv1VLQYV5Njexa18EZWW01T1At59y/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 + Moleküler filogeni uygulama:
     + Örnek veri [FASTA](https://drive.google.com/file/d/1d7yPGPl0oW_VQrm9F8QxaE7yvH2XEjRE/view?usp=sharing)
-    + ClustalW çoklu hizalama algoritması [Link](https://www.ebi.ac.uk/Tools/msa/clustalo/)
-    + Simple phylogeny [Link](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/)
+    + ClustalW çoklu hizalama algoritması [Link](https://www.ebi.ac.uk/jdispatcher/msa/clustalo)
+    + Simple phylogeny [Link](https://www.ebi.ac.uk/jdispatcher/phylogeny/simple_phylogeny)
 
 + Hizalama ve varyant çağırma [PPTX](https://docs.google.com/presentation/d/1n2SughF53E1E8IckgLtsXmB4Fh79ijjW/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 + Hizalama kılavuzu [PPTX](https://docs.google.com/presentation/d/1OHkdMCZsdqcc_w2XmpsJiFqsAya9telAaGAkCRs9mvA/edit?usp=sharing)
