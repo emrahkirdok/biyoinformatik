@@ -90,6 +90,7 @@ Ders kapsamında biyoinformatik analiz temelli ödevler verilecektir. Bu ödevle
     + Ders ekibinin hazıraldığı BCFtools ile varyant çağırma ve filtreleme [PPTX](https://docs.google.com/presentation/d/1pZKYguF-ZM7PVzTzx_ITSHC0vj6S_k1K/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
     + Genotipleme soruları (Ece Tümkaya)[Görsel](https://drive.google.com/file/d/1DB31gGQQhu6J6W874_rxWUO5LWpkU5Yz/view?usp=sharing)
     + Genotipleme soruları, cevaplar (Ece Tümkaya)[Görsel](https://drive.google.com/file/d/1Unll8_v5U3IWYwdeQvubzmCmPqmmiLJk/view?usp=sharing)
++ Derste oluşturduğumuz biyoinformatik iş hattı [EU Galaxy Link](https://usegalaxy.eu/u/emrahkirdok/w/biyoinformatik-is-hatti)
 
 ## Lisans seviyesi biyoinformatik
 
