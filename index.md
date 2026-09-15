@@ -19,6 +19,12 @@ Her sunucuda ufak tefek farklılıklar bulunmakta, ama genel kullanım mantığ�
 
 **E posta adresinizi onaylatmanız gerekmektedir!**
 
+## Dersler - Güncelleniyor
+
+- Ders Bilgisi [PDF](https://drive.google.com/file/d/1d0NLBIxaAgdhXD0snwWiOEEPxUUB0-a7/view?usp=sharing)
+- Biyoinformatiğe Giriş [PDF](https://drive.google.com/file/d/1em1bDequN7nv_HJZDEk6-A8Q7TvgqYBs/view?usp=sharing)
+
+
 ## Ödevlerin hazırlanması
 
 Ders kapsamında biyoinformatik analiz temelli ödevler verilecektir. Bu ödevlerin hazırlanması için aşağıdaki belgeyi taslak olarak kullanabilirsiniz. Hazırlayacağınız ödev tabii ki çalıştığınız konuya göre örnek verilen ödevden farklılaşmalı, ama temel bir taslak olarak kullanabilirsiniz:
