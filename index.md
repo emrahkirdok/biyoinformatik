@@ -23,6 +23,15 @@ Her sunucuda ufak tefek farklılıklar bulunmakta, ama genel kullanım mantığ�
 
 - Ders Bilgisi [PDF](https://drive.google.com/file/d/1d0NLBIxaAgdhXD0snwWiOEEPxUUB0-a7/view?usp=sharing)
 - Biyoinformatiğe Giriş [PDF](https://drive.google.com/file/d/1em1bDequN7nv_HJZDEk6-A8Q7TvgqYBs/view?usp=sharing)
+- Veri Tabanları [PDF](https://drive.google.com/file/d/1DnxttJcIaYk2tymwvvTrUad3jIRE4wvy/view?usp=sharing)
+
++ Galaxy kullanım kılavuzu (Giriş)
+    + Kullanım kılavuzu [WORD](https://docs.google.com/document/d/12kI8JWAATw-cuxNqSPQ3m6KWG_5TPkSIiTzr54GpuOM/edit?usp=sharing)
+    + Kullanım kılavuzu [PPTX](https://docs.google.com/presentation/d/1AbLXYKrsWzXSr4xjMeUl0DYcmOv12ow_vV8goZG9USE/edit?usp=sharing)
+
++ Galaxy veri yükleme
+    + Bilgisayardan Galaxy sistemine veri yükleme [PPTX](https://docs.google.com/presentation/d/1oqrIdeWL3YPoVGzzQxTn0zMIH5tSag_D/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
+    + NCBI NT veri tabanından Galaxy sistemine veri yükleme [PPTX](https://docs.google.com/presentation/d/1thAha4iQeUvJc_dDCTYB-_SCGkrjv5eL/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 
 
 ## Ödevlerin hazırlanması
@@ -37,15 +46,8 @@ Ders kapsamında biyoinformatik analiz temelli ödevler verilecektir. Bu ödevle
     + Ekran görüntüleri [PPTX](https://docs.google.com/presentation/d/1MazYbTa5qhedu8xHhRJC9MpWsIDrSJhSqkVq8--3m_A/edit?usp=sharing)
     + Kullanım kılavuz [WORD](https://docs.google.com/document/d/1RU7OXs_bvhjhxtZcRSkD97L_Ol48IyKmMcCKM5iv3HU/edit?usp=sharing)
 
-+ Galaxy kullanım kılavuzu (Giriş)
-    + Kullanım kılavuzu [WORD](https://docs.google.com/document/d/12kI8JWAATw-cuxNqSPQ3m6KWG_5TPkSIiTzr54GpuOM/edit?usp=sharing)
-    + Kullanım kılavuzu [PPTX](https://docs.google.com/presentation/d/1AbLXYKrsWzXSr4xjMeUl0DYcmOv12ow_vV8goZG9USE/edit?usp=sharing)
-
 + INTRO NGS [PPTX](https://docs.google.com/presentation/d/1RJGGq_6hG5QV0laz781-rl9aHiUjAe_n/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 
-+ Galaxy veri yükleme
-    + Bilgisayardan Galaxy sistemine veri yükleme [PPTX](https://docs.google.com/presentation/d/1oqrIdeWL3YPoVGzzQxTn0zMIH5tSag_D/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
-    + NCBI NT veri tabanından Galaxy sistemine veri yükleme [PPTX](https://docs.google.com/presentation/d/1thAha4iQeUvJc_dDCTYB-_SCGkrjv5eL/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 
 + Örnek diziler
     + [FASTA](https://drive.google.com/file/d/18FvZTZUNpIsOY7jiSWqSZDMovFrJIwHN/view?usp=sharing)
