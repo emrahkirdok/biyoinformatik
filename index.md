@@ -33,6 +33,11 @@ Her sunucuda ufak tefek farklılıklar bulunmakta, ama genel kullanım mantığ�
     + Bilgisayardan Galaxy sistemine veri yükleme [PPTX](https://docs.google.com/presentation/d/1oqrIdeWL3YPoVGzzQxTn0zMIH5tSag_D/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
     + NCBI NT veri tabanından Galaxy sistemine veri yükleme [PPTX](https://docs.google.com/presentation/d/1thAha4iQeUvJc_dDCTYB-_SCGkrjv5eL/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 
+- DNA hizalama [PDF](https://drive.google.com/file/d/1vBohWKnxsV7U0AaBkw1Zt9-RF4oQBc7r/view?usp=share_link)
+    + Needleman-Wunsch [WORD](https://docs.google.com/document/d/15X7wLJv82k4bnkm-51MNptHJzeHLW41rH3ABoTFoE2c/edit?usp=sharing)
+    + Hizalama dersi pratik [WORD](https://docs.google.com/document/d/1mwNi8Jf8rp2AuO5u4y7k7NQOdXv__1PVhqhNF_RyMFY/edit?usp=sharing)
+    + BLAST [WORD](https://docs.google.com/document/d/1-uqz3JdV2B-g3s_gaDsPJUc8EpE1dkz7bou6PVY8v1E/edit?usp=sharing)
+    + Needleman-Wunsch global hizalama algoritmasının R üzerinde basit bir uygulaması [html](needleman_wunsch.html)
 
 ## Ödevlerin hazırlanması
 
@@ -66,10 +71,6 @@ Ders kapsamında biyoinformatik analiz temelli ödevler verilecektir. Bu ödevle
 
 + DNA dizi hizalama:
     + Hizalama dersi sunumu [PPTX](https://docs.google.com/presentation/d/1ltZMsjJqQuUz7atPP2toqPCLrusUdA4F/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
-    + Needleman-Wunsch [WORD](https://docs.google.com/document/d/15X7wLJv82k4bnkm-51MNptHJzeHLW41rH3ABoTFoE2c/edit?usp=sharing)
-    + Hizalama dersi pratik [WORD](https://docs.google.com/document/d/1mwNi8Jf8rp2AuO5u4y7k7NQOdXv__1PVhqhNF_RyMFY/edit?usp=sharing)
-    + BLAST [WORD](https://docs.google.com/document/d/1-uqz3JdV2B-g3s_gaDsPJUc8EpE1dkz7bou6PVY8v1E/edit?usp=sharing)
-    + Needleman-Wunsch global hizalama algoritmasının R üzerinde basit bir uygulaması [html](needleman_wunsch.html)
 
 + [Mega kullanım kılavuzu](mega_guide.md)
 
