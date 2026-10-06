@@ -33,11 +33,14 @@ Her sunucuda ufak tefek farklılıklar bulunmakta, ama genel kullanım mantığ�
     + Bilgisayardan Galaxy sistemine veri yükleme [PPTX](https://docs.google.com/presentation/d/1oqrIdeWL3YPoVGzzQxTn0zMIH5tSag_D/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
     + NCBI NT veri tabanından Galaxy sistemine veri yükleme [PPTX](https://docs.google.com/presentation/d/1thAha4iQeUvJc_dDCTYB-_SCGkrjv5eL/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 
-- DNA hizalama [PDF](https://drive.google.com/file/d/1vBohWKnxsV7U0AaBkw1Zt9-RF4oQBc7r/view?usp=share_link)
++ DNA hizalama [PDF](https://drive.google.com/file/d/1vBohWKnxsV7U0AaBkw1Zt9-RF4oQBc7r/view?usp=share_link)
     + Needleman-Wunsch [WORD](https://docs.google.com/document/d/15X7wLJv82k4bnkm-51MNptHJzeHLW41rH3ABoTFoE2c/edit?usp=sharing)
     + Hizalama dersi pratik [WORD](https://docs.google.com/document/d/1mwNi8Jf8rp2AuO5u4y7k7NQOdXv__1PVhqhNF_RyMFY/edit?usp=sharing)
     + BLAST [WORD](https://docs.google.com/document/d/1-uqz3JdV2B-g3s_gaDsPJUc8EpE1dkz7bou6PVY8v1E/edit?usp=sharing)
     + Needleman-Wunsch global hizalama algoritmasının R üzerinde basit bir uygulaması [html](needleman_wunsch.html)
+
++ Filogenetik [PDF](https://drive.google.com/file/d/1o2CeFeQ2ol6UPOQe1Wh2SJLeFUWYapPd/view?usp=sharing)
+    + UPGMA ile Ağaç [WORD](https://docs.google.com/document/d/1wOaGv1VLQYV5Njexa18EZWW01T1At59y/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 
 ## Ödevlerin hazırlanması
 
@@ -76,7 +79,6 @@ Ders kapsamında biyoinformatik analiz temelli ödevler verilecektir. Bu ödevle
 
 + Moleküler Filogeni [PPTX](https://docs.google.com/presentation/d/1uYkQ37rtC8t9pNvSE-4K5xUiHUaKFEQ5/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 + Moleküler Filogeni Pratik [PPTX](https://docs.google.com/presentation/d/1Hzk0IMoIkSQId8PHjN3ZgEPEGLERlYZvh48KhNuwPWc/edit?usp=sharing)
-+ UPGMA ile Ağaç [WORD](https://docs.google.com/document/d/1wOaGv1VLQYV5Njexa18EZWW01T1At59y/edit?usp=sharing&ouid=116337412973117641488&rtpof=true&sd=true)
 + Moleküler filogeni uygulama:
     + Örnek veri [FASTA](https://drive.google.com/file/d/1d7yPGPl0oW_VQrm9F8QxaE7yvH2XEjRE/view?usp=sharing)
     + ClustalW çoklu hizalama algoritması [Link](https://www.ebi.ac.uk/jdispatcher/msa/clustalo)
